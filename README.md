@@ -4,11 +4,9 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания своего первого сайта для одного из барбершопов в нашем городе, далее в 2022 я поступаю на отборочный тур в Школу 21. В данный момент изучаю HTML / CSS / JavaScript[![Telegram Badge](https://img.shields.io/badge/dinislamlatypov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dinislamlatypov)
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с написания своего первого сайта для одного из барбершопов в нашем городе.  В данный момент изучаю HTML / CSS / JavaScript[![Telegram Badge](https://img.shields.io/badge/dinislamlatypov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dinislamlatypov)
 
 - :telescope: Изучаю веб-разработку на курсах Ивана Петреченко Web - разработчик!
-
-- :seedling: Дважды проходил интенсив в Школе 21!
 
 - :zap: Моя цель - работать в IT через год.
 
