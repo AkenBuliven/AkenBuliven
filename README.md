@@ -19,7 +19,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/impudens/" target="_blank">
+    <a href="https://www.linkedin.com/in/dinislamtyagun/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/i1_trofimov" target="_blank">
